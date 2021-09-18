@@ -1,4 +1,6 @@
-# Voici une liste de liens utiles pour le formatage des pages
+# Bonjour Sanaa, voici quelques liens pour t'aider à encoder les informations
+
+## Voici une liste de liens utiles pour le formatage des pages
 
 [Formatage général des pages](https://tech.io/playgrounds/408/tech-io-documentation/markdown-cheatsheet)
 
