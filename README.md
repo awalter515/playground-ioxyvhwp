@@ -5,9 +5,8 @@
 Dans le fichier **techio.yml**, chaque page est crée grâce au code suivant dans `plan`:
 
     plan:
-      title: Titre du chapitre
+    - title: Titre du chapitre
       statement: Code du chapitre (*toujours dans le répertoire markup*) 
-
 
 
 
