@@ -15,3 +15,9 @@
 [Insérer des formules mathématiques](https://tech.io/playgrounds/408/tech-io-documentation/math-formula)
 
 [Insérer des videos youtube](https://tech.io/playgrounds/408/tech-io-documentation/magic-links)
+
+## Structure du répertoire git
+
+J'ai créé le repertoire markups où se trouvent les lessons. Celles-ci sont encodées sous la forme *partx.md* où x est le numéro de la leçon
+
+[Lien vers les bases](https://tech.io/playgrounds/408/tech-io-documentation/techio-yml)
