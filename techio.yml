@@ -2,3 +2,7 @@ title: test_Cours de codage AMY 2021-2022
 plan:
 - title: Introduction
   statement: markdowns/part1.md
+- title: Première partie
+  statement: markdowns/part2.md
+- title: Quizz
+  statement: markdowns/part3.md
