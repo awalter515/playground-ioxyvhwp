@@ -18,7 +18,7 @@
 
 ## Structure du répertoire git
 
-J'ai créé le repertoire markups où se trouvent les leçons. Celles-ci sont encodées sous la forme *partx.md* où x est le numéro de la leçon.
+J'ai créé le repertoire markups où se trouvent les leçons. Celles-ci sont encodées sous la forme **partx.md** où x est le numéro de la leçon.
 
 J'ai aussi créé un répertoire exercice dans lequel sont stocké tous les exercices de codage. Ceux-ci contiennent 2 fichiers
 * /exercices/nom_exercice/nom_exercice.py pour le code
