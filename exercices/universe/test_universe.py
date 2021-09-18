@@ -1,1 +1,1 @@
-assert x == 42, "La réponse est 42"
+assert sys.stdout ==  "La réponse est 42"
