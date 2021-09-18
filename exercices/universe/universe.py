@@ -3,3 +3,4 @@ def mafonction(n) :
     x = 41
     blabla = "la réponse est " + str(x)
     print(blabla)
+    return blabla
