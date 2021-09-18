@@ -18,6 +18,10 @@
 
 ## Structure du répertoire git
 
-J'ai créé le repertoire markups où se trouvent les lessons. Celles-ci sont encodées sous la forme *partx.md* où x est le numéro de la leçon
+J'ai créé le repertoire markups où se trouvent les leçons. Celles-ci sont encodées sous la forme *partx.md* où x est le numéro de la leçon.
+
+J'ai aussi créé un répertoire exercice dans lequel sont stocké tous les exercices de codage. Ceux-ci contiennent 2 fichiers
+* /exercices/nom_exercice/nom_exercice.py pour le code
+* /exercices/nom_exercice/test_nom_exercice.py pour le code de test
 
 [Lien vers les bases](https://tech.io/playgrounds/408/tech-io-documentation/techio-yml)
