@@ -15,6 +15,6 @@ if y != reponse :
   raise AssertionError("Faute dans le résultat")
   
 
-'''
+
 assert y ==  reponse , "Ceci n'est pas la bonne réponse"
 '''
