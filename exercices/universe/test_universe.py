@@ -8,7 +8,7 @@ reponse = 42
 
 
 if y != reponse :
-  print(f"Votre réponse est fausse, pensez au guide du voyageur galactique")
-  raise NameError("Faute dans le résultat")
+  print(f"ERREUR Votre réponse est fausse, pensez au guide du voyageur galactique")
+  raise AssertionError("Faute dans le résultat")
   
 
