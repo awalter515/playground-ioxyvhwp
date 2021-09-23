@@ -3,10 +3,12 @@ from universe import mafonction
 
 y = mafonction(1)
 reponse = 42
-ok = False
 
-if y == reponse :
-  ok = True
+
+if y != reponse :
+  print(f"Pensez au guide du voyageur galactique")
+else:
+  
   
 
 '''
