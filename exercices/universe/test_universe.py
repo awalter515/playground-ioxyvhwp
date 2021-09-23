@@ -6,7 +6,7 @@ reponse = 42
 
 
 if y != reponse :
-  print(f"Pensez au guide du voyageur galactique")
+  print(f"Votre réponse est fausse, pensez au guide du voyageur galactique")
   raise AssertionError("Faute dans le résultat")
   
 
